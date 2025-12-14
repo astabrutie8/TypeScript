@@ -1,4 +1,3 @@
-<!-- TypeScript_20251214172058_4149 -->
 
 # TypeScript: Enterprise-Grade Cloud Development Platform
 > "Elevate your code, elevate your business."
